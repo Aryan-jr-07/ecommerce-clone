@@ -159,6 +159,7 @@ span{
     background-color: white;
     padding: 20px 0px 15px;
     margin-top: 15px;
+    border:none;
 }
 .box-img{
     background-size: cover;
@@ -185,8 +186,9 @@ span{
     background-color: white;
     padding: 20px 20px 15px;
     margin-top: 15px;
-    margin-left: 1rem;   
-    margin-right: 1rem;   
+    margin-left: 1.4rem;   
+    margin-right: 1.4rem;   
+    border: none;
 }
 .boxy-img{
     background-size: cover;
@@ -196,4 +198,19 @@ span{
 }
 .boxy-content p{
     color: #007185;
+}
+
+
+/* footer */
+footer{
+    margin-top: 15px;
+}
+.foot-panel1{
+    background-color: #37475a;
+    color: white;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.85rem;
 }
