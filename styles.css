@@ -11,6 +11,7 @@
     color: white;
     display: flex;
     align-items: center;
+    justify-content: space-evenly;
 }
 .nav-logo{
     height: 35px;
@@ -74,3 +75,14 @@
     border-bottom-right-radius:4px;
     color: black;
 }
+
+/* box 4 */
+span{
+    font-size: 0.7rem;
+}
+.nav-second{
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+
+/* box 5 */
