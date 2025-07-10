@@ -145,7 +145,17 @@ span{
 
 
  /* shop section */
+ .shop-section{
+    display: flex;
+   justify-content: space-evenly;
+   background-color: #e2e7e6;
+ }
 .box{
     border: 2px solid black;
-    height: 100px;
+    height: 400px;
+    width: 23%;
+    background-color: white;
+}
+.box-img{
+    height: 300px;
 }
