@@ -231,3 +231,19 @@ ul a{
     margin-top: 10px;
     color: #dddddd;
 }
+
+.foot-panel3{
+    background-color: #222f3d;
+    color: white;
+    border: 0.5px solid white;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo2{
+    background-image: url(log.jpg);
+    background-size: cover;
+    height: 35px;
+    width: 100px;
+} 
